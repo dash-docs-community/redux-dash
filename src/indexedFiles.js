@@ -77,37 +77,37 @@ var indexedFiles = [
     {
         "name": "docs/recipes/MigratingToRedux",
         "type": "Sample",
-        "toc": "Property"
+        "toc": "Section"
     },
     {
         "name": "docs/recipes/UsingObjectSpreadOperator",
         "type": "Sample",
-        "toc": "Property"
+        "toc": "Section"
     },
     {
         "name": "docs/recipes/ReducingBoilerplate",
         "type": "Sample",
-        "toc": "Property"
+        "toc": "Section"
     },
     {
         "name": "docs/recipes/ServerRendering",
         "type": "Sample",
-        "toc": "Property"
+        "toc": "Section"
     },
     {
         "name": "docs/recipes/WritingTests",
         "type": "Sample",
-        "toc": "Property"
+        "toc": "Section"
     },
     {
         "name": "docs/recipes/ComputingDerivedData",
         "type": "Sample",
-        "toc": "Property"
+        "toc": "Section"
     },
     {
         "name": "docs/recipes/ImplementingUndoHistory",
         "type": "Sample",
-        "toc": "Property"
+        "toc": "Section"
     },
     {
         "name": "docs/api/createStore",

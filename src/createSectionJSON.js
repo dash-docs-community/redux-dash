@@ -38,7 +38,7 @@ $section.each(function(i, elem){
         switch (sectionType) {
             case 'recipes':
                 page.type = 'Sample';
-                page.toc = 'Property';
+                page.toc = 'Section';
                 break;
             case 'api':
                 page.type = 'Function';
