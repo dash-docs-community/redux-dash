@@ -17,7 +17,7 @@ indexedFiles.forEach(function(array, index) {
     $('#edit-link').remove();
 
     $headers.each(function(index, elem) {
-        var name = $($(elem).contents().get(1)).text();
+        var name = $(elem).contents().text();
 
         // TODO: Change "array.toc to something more relevant on a page-by-page basis in indexedFiles.js"
         $(elem).prepend('<a name="//apple_ref/cpp/' + array.toc + '/' + encodeURIComponent(name) + '" class="dashAnchor"></a>');
