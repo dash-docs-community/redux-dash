@@ -1,0 +1,35 @@
+{
+  "name": "redux",
+  "version": "3.4.0",
+  "description": "Redux Documentation Source for Dash (http://kapeli.com/dash)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/epitaphmike/redux-dash"
+  },
+  "main": "src/index.js",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "lodash.flatten": "^3.0.2",
+    "sequelize": "^3.0.0",
+    "sqlite3": "^3.0.9"
+  },
+  "keywords": [
+    "Redux",
+    "React",
+    "Reactjs",
+    "Facebook",
+    "javascript",
+    "iOS",
+    "android"
+  ],
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Sharer <m@29degre.es> (http://29degre.es)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/epitaphmike/redux-dash/issues"
+  },
+  "homepage": "https://github.com/epitaphmike/redux-dash"
+}
