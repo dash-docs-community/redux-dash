@@ -1,5 +1,7 @@
 # [Redux](https://github.com/reactjs/redux/) documentation for [Dash](http://kapeli.com/dash)
 
+[![Known Vulnerabilities](https://snyk.io/test/github/epitaphmike/redux-dash/badge.svg)](https://snyk.io/test/github/epitaphmike/redux-dash)
+
 ## Installation in Dash
 
 **To install the Redux documentation in Dash, go to:**
