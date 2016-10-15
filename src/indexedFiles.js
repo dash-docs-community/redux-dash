@@ -70,6 +70,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "docs/advanced/UsageWithReactRouter",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "docs/advanced/ExampleRedditAPI",
         "type": "Guides",
         "toc": "Section"
@@ -107,6 +112,116 @@ var indexedFiles = [
     {
         "name": "docs/recipes/ImplementingUndoHistory",
         "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/IsolatingSubapps",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/StructuringReducers",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/PrerequisiteConcepts",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/BasicReducerStructure",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/SplittingReducerLogic",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/RefactoringReducersExample",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/UsingCombineReducers",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/BeyondCombineReducers",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/NormalizingStateShape",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/UpdatingNormalizedData",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/ReusingReducerLogic",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/ImmutableUpdatePatterns",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/recipes/reducers/InitializingState",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/faq/General",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/faq/Reducers",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/faq/OrganizingState",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/faq/StoreSetup",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/faq/Actions",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/faq/CodeStructure",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/faq/Performance",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/faq/ReactRedux",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/faq/Miscellaneous",
+        "type": "Guides",
         "toc": "Section"
     },
     {

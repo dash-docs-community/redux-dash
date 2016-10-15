@@ -28,7 +28,16 @@ $section.each(function(i, elem){
         // $(this).attr('href') returns ie.(guides-containers.html#content)
         // substring removes last 13 characters '.html' from href.
         var sectionType = $(this).attr('href').split('/')[1];
-        page.name = $(this).attr('href').substring(0, $(this).attr('href').length - 5);
+
+        // TODO: Figure out why the href is returning the full url for PrerequisiteConcepts only.
+        if($(this).attr('href') === 'http://redux.js.org/docs/recipes/reducers/PrerequisiteConcepts.html'){
+            // Hacky fix for 3.6
+            sectionType = $(this).attr('href').split('/')[4];
+            page.name = $(this).attr('href').substring(20, $(this).attr('href').length - 5);
+        } else {
+            // Proper functionality
+            page.name = $(this).attr('href').substring(0, $(this).attr('href').length - 5);
+        }
 
         if(config.ignorePage.pagesArray.indexOf(excludeArray) !== -1) {
             return;
