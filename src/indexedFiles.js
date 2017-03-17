@@ -5,6 +5,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "docs/introduction/CoreConcepts",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
         "name": "docs/introduction/ThreePrinciples",
         "type": "Guides",
         "toc": "Section"
@@ -125,6 +130,11 @@ var indexedFiles = [
         "toc": "Section"
     },
     {
+        "name": "docs/recipes/UsingImmutableJS",
+        "type": "Sample",
+        "toc": "Section"
+    },
+    {
         "name": "docs/recipes/reducers/PrerequisiteConcepts",
         "type": "Sample",
         "toc": "Section"
@@ -201,6 +211,11 @@ var indexedFiles = [
     },
     {
         "name": "docs/faq/Actions",
+        "type": "Guides",
+        "toc": "Section"
+    },
+    {
+        "name": "docs/faq/ImmutableData",
         "type": "Guides",
         "toc": "Section"
     },
