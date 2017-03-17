@@ -1,6 +1,6 @@
 # [Redux](https://github.com/reactjs/redux/) documentation for [Dash](http://kapeli.com/dash)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/epitaphmike/redux-dash/badge.svg)](https://snyk.io/test/github/epitaphmike/redux-dash)
+[![Known Vulnerabilities](https://snyk.io/test/github/epitaphmike/redux-dash/badge.svg)](https://snyk.io/test/github/epitaphmike/redux-dash) [![Build Status](https://travis-ci.org/epitaphmike/redux-dash.svg?branch=master)](https://travis-ci.org/epitaphmike/redux-dash)
 
 ## Installation in Dash
 
