@@ -3,6 +3,9 @@ version: v1.7.1
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
+  'npm:ms:20170412':
+    - sqlite3 > node-pre-gyp > tar-pack > debug > ms:
+        patched: '2017-06-05T01:39:10.660Z'
   'npm:qs:20170213':
     - sqlite3 > node-pre-gyp > request > qs:
-        patched: '2017-03-17T00:27:59.248Z'
+        patched: '2017-06-05T01:39:10.660Z'
