@@ -5,7 +5,13 @@ ignore: {}
 patch:
   'npm:ms:20170412':
     - sqlite3 > node-pre-gyp > tar-pack > debug > ms:
-        patched: '2017-06-05T01:39:10.660Z'
+        patched: '2017-10-12T16:43:32.713Z'
   'npm:qs:20170213':
     - sqlite3 > node-pre-gyp > request > qs:
-        patched: '2017-06-05T01:39:10.660Z'
+        patched: '2017-10-12T16:43:32.713Z'
+  'npm:debug:20170905':
+    - sqlite3 > node-pre-gyp > tar-pack > debug:
+        patched: '2017-10-12T16:43:32.713Z'
+  'npm:tough-cookie:20170905':
+    - sqlite3 > node-pre-gyp > request > tough-cookie:
+        patched: '2017-10-12T16:43:32.713Z'
